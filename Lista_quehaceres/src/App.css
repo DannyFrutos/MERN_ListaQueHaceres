@@ -1,0 +1,44 @@
+.container {
+  margin-top: 5rem;
+  width: 40%;
+}
+
+.tasks-container {
+  margin-top: 1rem;
+}
+
+.input-group-append {
+  margin-top: 0.5rem;
+}
+
+.task-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.task-item input[type="checkbox"] {
+  margin-right: 0.5rem;
+  background-color: #c4c4c4;
+}
+
+.task-text {
+  color: black;
+}
+
+.task-button {
+  font-weight: bold;
+  background-color: black;
+  border: none;
+}
+
+.btn {
+  font-weight: bold;
+}
+
+.form-check-label {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
